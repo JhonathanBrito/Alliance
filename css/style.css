@@ -1,10 +1,10 @@
 /*Index*/ /*Header*/
-.body_menu{
- background-color: #F6EFEF;
+.header{
+	background-color: #dfd0b4;
 }
 .menu{
 	text-align: right;		
-	margin-top: 109px;
+	margin-top: 50px;
 
 }
 .menu ul li{
@@ -20,18 +20,58 @@ color: #000; font-weight: bold; text-transform: uppercase; padding: 5px 0; trans
 
 }
 .img_logo{
-	margin-top: 50px;
+	margin-top: 25px;
 	text-align: left; 
 }
 /*Introdução*/
+.introducao{
+	background-color: #dfd0b4; 
+}
 
 .introducao img{
 width: 100%;
 margin-top: 40px;
+}
+.titulo{
+	margin-top: 10px;
+	text-align: center;
+	color: black;
+}
+.titulo li{
+	display: inline-block;
+	margin-top: 15px;
 }
 /*Footer*/
 .redes_sociais img{
 	float: right;
 	margin-top: 50px;
 }
+.footer_index{
+	background-color: #dfd0b4;
+}
+/*Login*/
+.body_login{
+	background-color: #dfd0b4;
+}
+.login{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 25px;
+	font-size: 40px;
+	color: black;
+}
+/*Cadastro*/
+.body_cadastro{
+	background-color: #dfd0b4;
+}
+.cadastro{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 25px;
+	font-size: 40px;
+	color: black;
+}
+
+	
+
 
